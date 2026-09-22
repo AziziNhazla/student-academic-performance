@@ -74,8 +74,8 @@ This project was created as part of a data analytics portfolio to demonstrate pr
 
 ### Page 1 — Student Academic Performance
 
-![Student Academic Performance](Screenshot 2026-09-22 185134.png)
+![Student Academic Performance](page1_overview.png)
 
 ### Page 2 — Detailed Student Analysis
 
-![Detailed Student Analysis](Screenshot 2026-09-22 185211.png)
+![Detailed Student Analysis](page2_dataanalysis)
