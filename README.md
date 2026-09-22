@@ -70,3 +70,12 @@ student-academic-performance/
 ## About the Project
 
 This project was created as part of a data analytics portfolio to demonstrate practical skills in data cleaning, data visualization, dashboard development, and analytical storytelling using Power BI.
+## Dashboard Preview
+
+### Page 1 — Student Academic Performance
+
+![Student Academic Performance](Screenshot 2026-09-22 185134.png)
+
+### Page 2 — Detailed Student Analysis
+
+![Detailed Student Analysis](Screenshot 2026-09-22 185211.png)
