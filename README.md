@@ -78,4 +78,4 @@ This project was created as part of a data analytics portfolio to demonstrate pr
 
 ### Page 2 — Detailed Student Analysis
 
-![Detailed Student Analysis](page2_dataanalysis)
+![Detailed Student Analysis](page2_dataanalysis.png)
